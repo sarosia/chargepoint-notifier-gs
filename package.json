@@ -1,5 +1,5 @@
 {
-  "name": "chargepoint-notifier-2",
+  "name": "chargepoint-notifier-gs",
   "version": "1.0.0",
   "description": "A new charge point notifier running as Google Apps Script",
   "main": "src/main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarosia/chargepoint-notifier-2.git"
+    "url": "git+https://github.com/sarosia/chargepoint-notifier-gs.git"
   },
   "author": "sarosia@esterity.info",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sarosia/chargepoint-notifier-2/issues"
+    "url": "https://github.com/sarosia/chargepoint-notifier-gs/issues"
   },
-  "homepage": "https://github.com/sarosia/chargepoint-notifier-2#readme",
+  "homepage": "https://github.com/sarosia/chargepoint-notifier-gs#readme",
   "devDependencies": {
     "eslint": "^2.2.0"
   }
